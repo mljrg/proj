@@ -1,3 +1,3 @@
 defmodule B do
-  def foo, do: :done
+  def xpto, do: :done
 end
