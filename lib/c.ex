@@ -1,3 +1,3 @@
 defmodule B do
-  def bar, do: :ok
+  def bar, do: "bar"
 end
