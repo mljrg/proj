@@ -1,2 +1,3 @@
 esquerda
 mais esquerda
+menos esquerda
