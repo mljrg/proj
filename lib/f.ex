@@ -1,3 +1,3 @@
 defmodule B do
-  def foobar, do: :done
+  def foobar, do: :almost_done
 end
