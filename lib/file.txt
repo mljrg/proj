@@ -1,1 +1,1 @@
-esq.txt
+mudei symlink para ficheiro com mesmo nome
