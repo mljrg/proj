@@ -1,4 +1,4 @@
 defmodule B do
-  # first comment
+  # comment
   def foo, do: :foo
 end
