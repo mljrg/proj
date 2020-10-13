@@ -1,2 +1,5 @@
-x=1
+x=4
+banana
 laranja
+morango
+pêssego
