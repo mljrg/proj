@@ -1,5 +1,5 @@
 defmodule B do
   def foo, do: :foo
   def bar, do: :bar
-  def xpto, do: :xpto
+  def xpte, do: :xpte
 end
