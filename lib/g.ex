@@ -1,0 +1,2 @@
+defmodule G do
+end
