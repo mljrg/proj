@@ -1,5 +1,6 @@
 banana
 laranja
+pêras
 morango
 uva
 couve
