@@ -1,6 +1,3 @@
-couve
-alface
 banana
 laranja
 morango
-TODO: mais coisas a comprar
