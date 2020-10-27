@@ -1,7 +1,8 @@
 The list of groceries is
 
+* eggs  $12
 * honey $10
 * milk   $5
 * sugar  $7
 
-with total $22
+with total $34
