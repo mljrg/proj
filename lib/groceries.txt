@@ -1,0 +1,7 @@
+The list of groceries is
+
+* honey 0
+* milk   
+* sugar  
+
+with total 2
