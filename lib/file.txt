@@ -1,1 +1,1 @@
-g.ex
+ficheiro g.ex
