@@ -1,7 +1,7 @@
 The list of groceries is
 
-* honey 0
-* milk   
-* sugar  
+* honey $10
+* milk   $5
+* sugar  $7
 
-with total 2
+with total $22
