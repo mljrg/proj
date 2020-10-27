@@ -2,6 +2,8 @@ The list of groceries is
 
 * honey $10
 * milk   $5
+* salt   $8
+* soy    $4
 * sugar  $7
 
-with total $22
+with total $34
