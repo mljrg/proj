@@ -1,3 +1,4 @@
 defmodule B do
-  def foobar, do: :ok
+  def ok, do: :ok
+  def foobar, do: :done
 end
