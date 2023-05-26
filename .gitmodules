@@ -1,3 +1,4 @@
 [submodule "lib/repo_um"]
 	path = lib/repo_um
 	url = https://github.com/mljrg/repo_um.git
+	branch = pr3100
