@@ -1,4 +1,4 @@
-[submodule "lib/repo_um"]
+[submodule "external_project"]
 	path = lib/repo_um
 	url = https://github.com/mljrg/repo_um.git
 	branch = pr3100
