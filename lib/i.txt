@@ -1,0 +1,3 @@
+lion
+monkey
+snake
