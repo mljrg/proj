@@ -4,4 +4,4 @@ wed
 thu
 fri
 sat
-sun
+sunday
