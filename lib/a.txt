@@ -1,4 +1,4 @@
-mon
+monday
 tue
 wed
 thu
