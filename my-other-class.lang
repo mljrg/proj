@@ -1,0 +1,10 @@
+ class C {
+  int a;
+  int b = 10;
+  int c = 20;
+  String s = "Viva!";
+
+  def hello(String x) {
+    printf("Hello!");
+  }
+}
